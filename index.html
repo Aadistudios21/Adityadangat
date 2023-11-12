@@ -17,21 +17,3 @@
 </body>
 </html>
 ￼Enter
-
-from flask import Flask, render_template
-
-app = Flask(__name__)
-
-@app.route('/')
-def index():
-    social_media_links = {
-        'Twitter': 'https://twitter.com/YourTwitterHandle',
-        'LinkedIn': 'https://www.linkedin.com/in/your-linkedin-profile',
-        # Add more social media links as needed
-    }
-
-    return render_template('index.html', social_media_links=social_media_links)
-
-if __name__ == '__main__':
-    app.run(debug=True)
-
