@@ -1,12 +1,11 @@
 # Hi there! 👋
 
-I'm [Your Name], a passionate [Your Profession/Interest] from [Your Location].
+I'm Aditya Dangat, from INDIA.
 
-🔭 I’m currently working on [Current Project/Job].
-🌱 I’m currently learning [Technologies/Frameworks].
-💬 Ask me about [Topics you're knowledgeable about].
-📫 How to reach me: [Your Email or other contact info].
-😄 Pronouns: [Your Pronouns].
-⚡ Fun fact: [Interesting Fact about Yourself].
+🌱 I’m currently learning Python advance .
+💬 Ask me about Anything .
+📫 How to reach me: adityadangat018@gmail.com.
+😄 Pronouns: myur
+⚡ Fun fact: this is my first web lol .
 
-Feel free to explore my repositories and connect with me on [Your Social Media Links].
+Feel free to explore my repositories .
